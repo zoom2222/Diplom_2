@@ -1,0 +1,2 @@
+assert 401 == 200
+ +  where 401 = <Response [401]>.status_code
